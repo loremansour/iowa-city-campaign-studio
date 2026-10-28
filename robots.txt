@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://loremansour.github.io/iowa-city-campaign-studio/sitemap.xml
